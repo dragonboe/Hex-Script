@@ -7,19 +7,23 @@ Configuration Options:
 1. System Cleanup
 
     Temporary Files: Removed for disk space recovery
+   
     Windows Log & Cache: Cleared for improved system responsiveness
+   
     Credentials in Windows Credential Manager: Removed for enhanced security
+   
     Recycle Bin: Emptied for a clean start
+   
     Previous Windows Installations: Removed to reclaim disk space
 
-2. Feature Adjustments
+3. Feature Adjustments
 
     Disabled Features:
         Recall
         Customer Experience Improvement Program
         Windows Telemetry and Data Collection
 
-3. Data Collection Disablement
+4. Data Collection Disablement
 
     Affected Applications:
         Visual Studio
@@ -27,19 +31,19 @@ Configuration Options:
         Visual Studio Code
         Microsoft Office
 
-4. Enhanced Security Measures
+5. Enhanced Security Measures
 
     Implemented Enhancements:
         Improved Network Security (Revert if issues arise; a system restore point is recommended)
         Clipboard Data Collection: Disabled for privacy
         Protection against PowerShell 2.0 Downgrade Attacks
 
-5. Defender Configuration
+6. Defender Configuration
 
     Recommended Action:
         Disable Windows AV (Use Bitdefender or Kaspersky instead for comprehensive protection)
 
-6. Bloatware Removal
+7. Bloatware Removal
 
     Removed Components:
         Unnecessary Windows Apps
