@@ -1,4 +1,5 @@
 Windows Optimization & Security Script
+Fully open-source, change to your liking if you want.
 
 Summary: Streamline your Windows system by removing unnecessary files, disabling data collection, enhancing security, and eliminating bloatware.
 
